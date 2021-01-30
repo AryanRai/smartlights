@@ -27,9 +27,9 @@ int touchButton3State = HIGH;
 int relay4State = LOW;
 int touchButton4State = HIGH;
 
-#define AUTH "XefyaLMB5gzFBWQUw9wIWMp0U3mgO62s"  // You should get Auth Token in the Blynk App.  
-#define WIFI_SSID "COVID-19"               //Enter Wifi Name
-#define WIFI_PASS "9971944811"                    //Enter wifi Password
+#define AUTH "BLYNKID- HERE"  // You should get Auth Token in the Blynk App.  
+#define WIFI_SSID "SSID"               //Enter Wifi Name
+#define WIFI_PASS "I LOVE U TOO"                    //Enter wifi Password
 
 #define SERVER "blynk-cloud.com "              // Comment-out if use Blynk hosted cloud service
 #define PORT 8442
