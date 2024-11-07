@@ -21,6 +21,8 @@ The SmartLights project integrates touch sensors, relays, and NodeMCU to create 
 ## 2. Hardware and Library Requirements
 ![Full circuit](https://github.com/user-attachments/assets/fffaf704-6de6-4f28-a9f0-d6b5900be280)
 
+![Demo](https://photos.app.goo.gl/BnDKCwXh2KMMfDNC9)
+
 
 ### Hardware
 - **NodeMCU (ESP8266)**
