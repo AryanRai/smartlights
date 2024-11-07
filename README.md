@@ -1,6 +1,6 @@
 # SmartLights Documentation
 
-SmartLights is a DIY smart lighting system using NodeMCU (ESP8266), Blynk for mobile app integration, and capacitive touch sensors (TTP223) to control relay-based lighting. The system offers local and remote control of up to 4 lights, with optional extension to 8 channels.
+SmartLights is a DIY smart lighting system using NodeMCU (ESP8266), Blynk for mobile app integration, and capacitive touch sensors (TTP223) to control relay-based lighting. The system offers local and remote control of up to 4 lights, with optional extension to 8 channels. This also integrates with openHAB, a free Home Assitant alternative to work with Google Home, Alexa and Home Kit
 
 ## Table of Contents
 
