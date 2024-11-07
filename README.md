@@ -19,7 +19,7 @@ SmartLights is a DIY smart lighting system using NodeMCU (ESP8266), Blynk for mo
 The SmartLights project integrates touch sensors, relays, and NodeMCU to create a versatile lighting system. Using Blynk and local network setup, users can control lights remotely from a smartphone. Additionally, it includes Over-The-Air (OTA) updates for seamless firmware upgrades.
 
 ## 2. Hardware and Library Requirements
-![WhatsApp Image 2024-11-06 at 23 45 55_5d2d5393](https://github.com/user-attachments/assets/fef9a218-4c11-40ac-bb23-dfa6b63462db)
+![Full circuit](https://github.com/user-attachments/assets/fffaf704-6de6-4f28-a9f0-d6b5900be280)
 
 
 ### Hardware
@@ -27,6 +27,11 @@ The SmartLights project integrates touch sensors, relays, and NodeMCU to create 
 - **4-Channel Relay Module** (expandable to 8)
 - **TTP223 Capacitive Touch Sensors** (one for each relay)
 - **240v to 5v step down power supply** 
+
+![Esp8266](https://github.com/user-attachments/assets/ce149b00-574c-4b08-82bc-2c69bcab5fec)
+![RelayModule](https://github.com/user-attachments/assets/80e6e35f-5c46-4cae-ad1b-9e8c781b3f64)
+![TouchSensor](https://github.com/user-attachments/assets/2d5f21fb-2139-4d77-bfc6-8d3a453b9e5e)
+
 
 ### Libraries
 - **Blynk**: For remote control through Blynk mobile app
